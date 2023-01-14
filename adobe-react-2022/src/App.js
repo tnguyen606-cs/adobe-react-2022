@@ -140,7 +140,7 @@ date/time, review accessible assets to make an informed decision before setting 
                 <a className="App-link"
                   href="https://www.linkedin.com/in/hongtam-nguyen/"
                   target="_blank"
-                  rel="noopener"><strong>linkedin.com/in/hongtam-nguyen/</strong></a>
+                  rel="noreferrer"><strong>linkedin.com/in/hongtam-nguyen/</strong></a>
             </div>
             
         </div>
