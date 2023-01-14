@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/adobe-react-2022/static/css/main.847738bb.css",
+    "main.js": "/adobe-react-2022/static/js/main.bf37d042.js",
+    "static/js/787.1ea55c4e.chunk.js": "/adobe-react-2022/static/js/787.1ea55c4e.chunk.js",
+    "static/media/truncation.png": "/adobe-react-2022/static/media/truncation.3a02b85bc3b1aab5353b.png",
+    "static/media/errormessage.png": "/adobe-react-2022/static/media/errormessage.7c9c061c3560e172cb0e.png",
+    "static/media/setexp_2.png": "/adobe-react-2022/static/media/setexp_2.ca28c8cd91eb0310c95f.png",
+    "static/media/setexp.png": "/adobe-react-2022/static/media/setexp.005cbf74f9fe01ecb7f2.png",
+    "static/media/confirm_1.png": "/adobe-react-2022/static/media/confirm_1.2d1ff2340f23c9024dc0.png",
+    "static/media/confirm_2.png": "/adobe-react-2022/static/media/confirm_2.c819151a2f41a493a535.png",
+    "index.html": "/adobe-react-2022/index.html",
+    "main.847738bb.css.map": "/adobe-react-2022/static/css/main.847738bb.css.map",
+    "main.bf37d042.js.map": "/adobe-react-2022/static/js/main.bf37d042.js.map",
+    "787.1ea55c4e.chunk.js.map": "/adobe-react-2022/static/js/787.1ea55c4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.847738bb.css",
+    "static/js/main.bf37d042.js"
+  ]
+}
